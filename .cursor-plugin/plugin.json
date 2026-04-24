@@ -1,7 +1,7 @@
 {
   "name": "mindmap",
   "version": "0.1.0",
-  "description": "Turn outlines and structured ideas into interactive mind maps in Cursor using the hosted MindMap MCP server.",
+  "description": "Visualize your codebase and complex concepts as mind maps in Cursor IDE.",
   "author": {
     "name": "Keenethics",
     "email": "labs@keenethics.com"
