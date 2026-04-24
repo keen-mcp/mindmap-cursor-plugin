@@ -1,0 +1,14 @@
+{
+  "name": "mindmap",
+  "version": "0.1.0",
+  "description": "Turn outlines and structured ideas into interactive mind maps in Cursor using the hosted MindMap MCP server.",
+  "author": {
+    "name": "Keenethics",
+    "email": "labs@keenethics.com"
+  },
+  "homepage": "https://mindmap-cursor.keenethics-labs.com/",
+  "repository": "https://github.com/keen-mcp/mindmap-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["cursor-plugin", "mindmap", "mcp", "diagramming", "planning"],
+  "logo": "assets/logo_mindmap.svg"
+}
